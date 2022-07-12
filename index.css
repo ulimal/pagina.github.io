@@ -1,0 +1,48 @@
+body
+
+{
+    background-color: aqua;
+}
+
+
+.final
+ {
+    padding: 0;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    background-color: #e61616;
+    
+}
+
+
+.navegador
+{
+    width:400px;
+	padding: 5px;
+	border-radius: 5px;
+	/* Redondear Borde  */
+	border-style: groove;
+	border-color: #7fff00;
+	background-color: #a9f4db;
+	width: 300px;
+	margin: auto;  
+}
+
+
+.contenedor {
+    display: grid;
+    justify-content: space-between;
+    border: 4px groove;
+    border-radius: 15px;
+    position: relative;
+}
+
+h4 
+{
+    padding: 0;
+    color: rgb(255, 255, 255);
+    text-align: left;
+    background-color: aqua;
+ 
+    
+}
